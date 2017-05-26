@@ -8,4 +8,4 @@ This project is the first Project of Term1 of the Udacity Self Driving Car Engin
 The goal of the project is to detect lane lines. By doing so it is an introduction to image analysis and recognition techniquest who are very useful when working in the field. Namely image transforms, canny edge detection, hough space transform for line detection and similar methods are explored.
 
 ## Files
-Everything of this project, code and explainations can be found in the jupyter notebook P1.ipynb
+Everything of this project, code and explainations can be found in the jupyter notebook (P1.ipynb)[P1.ipynb]
